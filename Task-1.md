@@ -1,11 +1,13 @@
 自我介紹
 ========
+
 > 中文姓名：李樹人
 > 英文姓名：Janas Lee
 
 
 學歷
------
+----
+
 | 學校 | 科系 | 
 | ------ | ------ |
 | 東海大學 | 資訊工程研究所 |
@@ -16,6 +18,7 @@
 
 程式語言
 --------
+
 - Java
 - JSP
 - JavaScript
@@ -24,13 +27,18 @@
 
 作業系統
 --------
+
 - Windows
 - Android
 
 
 聯絡資訊
 --------
+
 - GitHub 帳號是 `JanasLeeD`
+
+
 - EMail 是 [janaslee@datacom.com.tw] [email]。
+
 
 [email]: mailto:janaslee@datacom.com.tw  "This is my email."
