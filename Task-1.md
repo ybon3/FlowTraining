@@ -15,7 +15,6 @@
 | 建中補校 |  |
 
 
-
 程式語言
 --------
 
@@ -35,10 +34,9 @@
 聯絡資訊
 --------
 
-- GitHub 帳號是 `JanasLeeD`
-
-
-- EMail 是 [janaslee@datacom.com.tw] [email]。
+- GitHub 帳號是 JanasLeeD
+- EMail 是 [janaslee@datacom.com.tw] [email]
 
 
 [email]: mailto:janaslee@datacom.com.tw  "This is my email."
+
