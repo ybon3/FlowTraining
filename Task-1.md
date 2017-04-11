@@ -1,4 +1,9 @@
-> # 自我介紹 #
+自我介紹
+=======
+
+基本資料
+--------
+
 > * 中文姓名：李樹人
 > * 英文姓名：Janas Lee
 
@@ -32,9 +37,9 @@
 聯絡資訊
 --------
 
-- GitHub 帳號是 JanasLeeD
+- GitHub 帳號是 [JanasLeeD] [github]
 - EMail 是 [janaslee@datacom.com.tw] [email]
 
-
+[github]: https://github.com/JanasLeeD/  "This is my Github."
 [email]: mailto:janaslee@datacom.com.tw  "This is my email."
 
