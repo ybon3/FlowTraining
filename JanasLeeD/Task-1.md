@@ -12,10 +12,9 @@
 ----
 
 | 學校 | 科系 | 
-| ------ | ------ |
+| ------ | ------- |
 | 東海大學 | 資訊工程研究所 |
 | 中山醫學大學 | 營養學系 |
-| 建中補校 ||
 
 
 程式語言
@@ -25,6 +24,7 @@
 * JSP
 * JavaScript
 * jQuery
+* GWT
 
 
 作業系統
@@ -38,9 +38,9 @@
 --------
 
 * GitHub 帳號是 [JanasLeeD][github]
-* EMail 是 [janaslee@datacom.com.tw][email]
+* EMail 是 [janaslee@datacom.com.tw][emai1]
 
 
 [github]: https://github.com/JanasLeeD/  "This is my Github."
-[email]: mailto:janaslee@datacom.com.tw  "This is my email."
+[emai1]: mailto:janaslee@datacom.com.tw  "This is my email."
 
