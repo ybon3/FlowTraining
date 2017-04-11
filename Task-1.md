@@ -21,24 +21,24 @@
 程式語言
 --------
 
-- Java
-- JSP
-- JavaScript
-- jQuery
+* Java
+* JSP
+* JavaScript
+* jQuery
 
 
 作業系統
 --------
 
-- Windows
-- Android
+* Windows
+* Android
 
 
 聯絡資訊
 --------
 
-- GitHub 帳號是 [JanasLeeD] [github]
-- EMail 是 [janaslee@datacom.com.tw] [email]
+* GitHub 帳號是 [JanasLeeD] [github]
+* EMail 是 [janaslee@datacom.com.tw] [email]
 
 [github]: https://github.com/JanasLeeD/  "This is my Github."
 [email]: mailto:janaslee@datacom.com.tw  "This is my email."
