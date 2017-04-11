@@ -26,8 +26,8 @@ Github
            +------------------ MontyPan/FlowTraining <-----------------+
 
 
-PG 的 repo 是由 `DatacomRD/Training` fork 出來（等同於 Github 幫你作 `git clone`），
-task 完成後發 pull request 給 reviewer，
+PG 的 repo 是由 `DatacomRD/FlowTraining` fork 出來（等同於 Github 幫你作 `git clone`），
+task 完成後發 pull request（簡稱 PR）給 reviewer，
 reviewer 如果 accept，就會整合回 `DatacomRD/Training`。
 
 
@@ -37,7 +37,7 @@ reviewer 如果 accept，就會整合回 `DatacomRD/Training`。
 
 1. 開一個新的 branch，名稱為 `WtfTask`
 1. 在 `WtfTask` 上頭作業
-1. 完成後發 pull request 給 reviewer（`MontyPan/Training`），
+1. 完成後發 PR 給 reviewer（`MontyPan/FlowTraining`），
 	reviewer 沒有特別指定，target branch 就是 `master`。
 1. reviewer 可能會有三個動作：
 	* merge pull request：表示 reviewer accept，這個 task 順利結束。
@@ -75,6 +75,7 @@ reviewer 如果 accept，就會整合回 `DatacomRD/Training`。
 		
 * 使用 Markdown 語法、搭配 github 延伸語法（[ref.1]、[ref.2]），
 	並符合後述的 Markdown Style
+    * 若有語法解讀不同的問題，以 GitHub 上能正常顯示為準
 
 [ref.1]: https://guides.github.com/features/mastering-markdown/
 [ref.2]: https://help.github.com/articles/github-flavored-markdown/
@@ -94,8 +95,8 @@ Markdown Coding Style
 1. code block
 	1. 上頭空一行、下頭空兩行
 1. blockquote
-    1. 上頭空一行、下頭空兩行
-    1. 行首全部都要加上 `>`
+	1. 上頭空一行、下頭空兩行
+	1. 行首全部都要加上 `>`
 	1. 用 blockquote 作諸如「備註」、「注意」的文字區塊，
 		則用第六級的 header（稱之為 title），例如：
 		
