@@ -37,8 +37,8 @@
 聯絡資訊
 --------
 
-* GitHub 帳號是 [JanasLeeD] [github]
-* EMail 是 [janaslee@datacom.com.tw] [email]
+* GitHub 帳號是 [JanasLeeD][github]
+* EMail 是 [janaslee@datacom.com.tw][email]
 
 
 [github]: https://github.com/JanasLeeD/  "This is my Github."
